@@ -11,17 +11,17 @@ Team members
 
 ## Description
 
-The aim of this project is to exploit machine learning techniques to create a cross-platform web-app to recommend products based on clients' need.
-
-We have been provided with the dataset `Needs.xls`, which contains information about clients and products.
-
-We followed a multi-tool approach, porting models to exploit each software's development strengths. We used **MATLAB**, **R**, for prototyping and **Python** with **Streamlit** module for deployment.
-
-The prototyping part is in the `dev` folder while the Python part is in the `models` folder; finally the `app.py` file contains the Streamlit implementation.
+Heart failure is a pathophysiological state in which the heart fails to supply the required amount of blood
+and oxygen to the body. It is a common, costly, chronic and potentially fatal condition widespread all over
+the world.
+The main aim of this study is to provide statistically relevant methods for identifying the potentially **high-risk patients** in advance and understanding which are the main patient-level features that have an impact
+on the re-hospitalization. Moreover, another goal of the project is to find out if there are differences
+among patients due to a **possible hospital effect**. Finally, another purpose is to evaluate the impact of
+adherence to the **drugs in (re)-hospitalizations**. The study is based on the recordings of the hospitalizations
+and the medical prescriptions of 187493 patients from the Lombardy region but in this project, the main
+focus is centred on the people from Milano.
 
 ## Output
 
-The web-app [is available here](https://share.streamlit.io/marcolucchini/fintech-project/main/app.py).
-
-The `presentation.pdf` is in the `output` folder.
+The `poster.pdf` is the summary of all the work done, the QRCode on it is connected to the webapp created to show all the extra results obtained.
 
