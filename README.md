@@ -4,7 +4,7 @@ Project for the course of Applied Statistics for Mathematical Engineering, acade
 Project supervisors: Chiara Masci, Francesca Ieva, Alessandra Ragni.
 
 Team members
-- Tomaso Catellani ([GitHub](https://github.com/tomasocastellani), [Linkedin](https://www.linkedin.com/in/tomaso-castellani-2682b6228/))
+- Tomaso Castellani ([GitHub](https://github.com/tomasocastellani), [Linkedin](https://www.linkedin.com/in/tomaso-castellani-2682b6228/))
 - Gabriele Corbo ([GitHub](https://github.com/gabrielecorbo), [Linkedin](https://www.linkedin.com/in/gabriele-corbo-657982218/))
 - Davide Fabroni ([GitHub](https://github.com/davidowicz), [Linkedin](https://www.linkedin.com/in/davide-fabroni-9818b6220/))
 - Marco Lucchini ([GitHub](https://github.com/marcolucchini), [Linkedin](https://www.linkedin.com/in/marco-lucchini-294801218/))
