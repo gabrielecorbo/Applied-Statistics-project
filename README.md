@@ -1,4 +1,4 @@
-# Applied Statistics project
+# Mixed and functional analysis models for studying Heart Failure (re)-hospitalizations
 Project for the course of Applied Statistics for Mathematical Engineering, academic year 2021-2022
 
 Project supervisors: Chiara Masci, Francesca Ieva, Alessandra Ragni.
