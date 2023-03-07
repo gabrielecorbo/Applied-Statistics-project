@@ -23,5 +23,5 @@ focus is centred on the people from Milano.
 
 ## Output
 
-The `poster.pdf` is the summary of all the work done, the QRCode on it is connected to a [WebApp](https://marcolucchini-applied-statistics-project-webapp-33tcu9.streamlit.app/) created to show all the extra results obtained.
+The [`poster.pdf`](https://github.com/gabrielecorbo/Heart-Failure-re-hospitalizations/blob/main/poster.pdf) is the summary of all the work done, the QRCode on it is connected to a [WebApp](https://marcolucchini-applied-statistics-project-webapp-33tcu9.streamlit.app/) created to show all the extra results obtained.
 
